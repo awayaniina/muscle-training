@@ -7,7 +7,7 @@ It can also be used to record training.
 
 ## How to use
 
-`pip install agci`
+`pip install muscle-training`
 
 ## Display Contents
 <img src='OK.JPG' height=270 wight=750>
