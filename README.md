@@ -6,22 +6,8 @@ It can also be used to record training.
 
 
 ## How to use
-### ・muscletraining.pyのファイルをダウンロード。
-ダウンロードしたファイルがある環境まで移動する。
 
-`cd (フォルダ名)`
-
-### ・ターミナルでcondaを使えるようにする。
-
-`conda activate`
-
-### ・muscletraining.pyを実行する。
-
-`python muscletraining.py`
-
-### ・カメラに向かって腕を動かす。
-この時は腰より上のみをカメラに写すようにしてください。
-
+`pip install agci`
 
 ## Display Contents
 <img src='OK.JPG' height=270 wight=750>
