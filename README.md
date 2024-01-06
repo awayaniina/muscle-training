@@ -24,6 +24,7 @@ It can also be used to record training.
 
 
 ## 表示内容
+<img src='IMG_8431.JPG' height=270 wight=750>
 OK or NG ：　腕がしっかり伸びていればOK、伸びていなければNGが表示される。
 
 Count　：　腕を伸ばせていた回数を表示。
