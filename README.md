@@ -24,8 +24,8 @@ It can also be used to record training.
 
 
 ## Display Contents
-<img src='IMG_8431.JPG' height=270 wight=750>
-<img src='IMG_8432.JPG' height=270 wight=750>
+<img src='OK.JPG' height=270 wight=750>
+<img src='NG.JPG' height=270 wight=750>
 
 OK or NG ：　If the arms are well extended, OK is displayed; if not, NG is displayed.
 
