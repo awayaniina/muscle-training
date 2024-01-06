@@ -1,11 +1,11 @@
 # muscle-training
 
-## 概要
-メディアパイプというライブラリを使って、カメラで撮影した人の姿勢を認識。腕が伸びているかどうかを判定し、しっかりと腕が伸びた回数と伸びていた時間を計測するものです。
-トレーニングの記録にも活用できます。
+## About muscle-training
+It uses a library called MediaPipe to recognize the posture of a person captured by a camera. It determines whether the arm is extended or not, and measures the number of times the arm was firmly extended and the time it was extended.
+It can also be used to record training.
 
 
-## 使い方
+## How to use
 ### ・muscletraining.pyのファイルをダウンロード。
 ダウンロードしたファイルがある環境まで移動する。
 
