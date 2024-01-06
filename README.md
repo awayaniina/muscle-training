@@ -5,7 +5,7 @@ It uses a library called MediaPipe to recognize the posture of a person captured
 It can also be used to record training.
 
 
-## How to use
+## How to install 
 
 `pip install muscle-training`
 
