@@ -23,11 +23,12 @@ It can also be used to record training.
 この時は腰より上のみをカメラに写すようにしてください。
 
 
-## 表示内容
+## Display Contents
 <img src='IMG_8431.JPG' height=270 wight=750>
 <img src='IMG_8432.JPG' height=270 wight=750>
-OK or NG ：　腕がしっかり伸びていればOK、伸びていなければNGが表示される。
+OK or NG ：　If the arms are well extended, OK is displayed; if not, NG is displayed.
 
-Count　：　腕を伸ばせていた回数を表示。
+Count　：The number of times the arm was extended is indicated.
 
-Time　：　腕が伸びていた時間を表示。一度腕を下ろさないと時間は加算されません。
+
+Time　：　Displays the time that the arm was extended. Time is not added until the arm is lowered once.
