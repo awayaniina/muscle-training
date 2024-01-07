@@ -7,11 +7,11 @@ It can also be used to record training.
 
 ## How to install 
 
-`pip install muscletraining`
+`$ pip install muscletraining`
 
 ## How to use
 
-`muscletraining`
+`$ muscletraining`
 
 ## Display Contents
 <img src='OK.JPG' height=270 wight=750>
