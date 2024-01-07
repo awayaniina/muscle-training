@@ -11,6 +11,8 @@ It can also be used to record training.
 
 ## How to use
 
+Only above the waist should be visible to the camera.
+
 `$ muscletraining`
 
 ## Display Contents
